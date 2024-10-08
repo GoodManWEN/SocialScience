@@ -6,7 +6,7 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 
 根据综述，数据驱动创新（DDI）被视为数字市场中的新场景，它通过利用用户生成的数据（UGD）来推动新产品和商业模式的出现，而后者则带来了数据安全（data security），隐私保护（privacy protection），数据驱动战略（data-driven strategies）方面的问题。文章着手与此，认为目前尚缺乏一个综述性的研究，来构建DDI和UGD之间的概念联系。
 
-文章的主体结构也在综述中表示得很清晰: 
+文章所主体包含的内容也在综述中表示得很清晰（但是后文不是严格按照这个结构来写的）: 
 
 - 第一部分是做系统性文献综述，
 - 第二部分是选择用户隐私保护的视角进行深入访谈，
