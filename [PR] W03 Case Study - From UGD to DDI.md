@@ -25,7 +25,7 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 - 共同基础理论（Common-ground theory）
 
 #### 2. 理论框架（Theoretical Framework）：
-这一部分相当于文献综述的主体部分，通过三个图表来完成一系列概念的辨析
+这一部分相当于文献综述的准备部分，通过三个图表来完成一系列概念的辨析
 - Table2: User-generated data characteristics for data-driven innovation. 这个是寻找前人研究中涉及到UGD和DDI的内容并将其理论和来源加以总结。这部分的目的是通过这些理论使得我们可以基于它们来理解后续的UGD内容。
 - Table3: Intentionally(有意生成) vs. non-intentionally(无意生成) generated consumer data (UGC and UGB). 这张图表是对用户生成数据进行了有意生成和无意生成的分类，用一张图表表现了数据的各种类型，可能的来源，以及它们是否包含有意和无意生成的数据。
 - Table4: Types of trust in user-generated data in digital markets. 对用户信任进行了分类，包括用户对平台的信任、对其他用户的信任等。
