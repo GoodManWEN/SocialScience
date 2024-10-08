@@ -12,6 +12,8 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 - 第二部分是选择用户隐私保护的视角进行深入访谈，
 - 第三是通过Latent Dirichlet allocation (LDA)的方法建模，然后基于建模识别出14个过去文献中与DDI和UGD研究的核心问题和7个核心议题（proposition），这些议题应该在数据市场的用户隐私话题中被讨论。
 
+>> 为什么研究，得到了什么结果，以及藏拙
+
 ## 文章结构
 
 #### 1. 引言（Introduction）：
