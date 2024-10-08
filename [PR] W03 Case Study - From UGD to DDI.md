@@ -1,10 +1,10 @@
 # Topic: Research design
-Case analysis: From user-generated data to data-driven innovation: A research agenda to understand user privacy in digital markets
+Case analysis: From user-generated data to data-driven innovation: A research agenda to understand user privacy in digital markets（IJIM，引用数200）
 
 ## 综述
 In recent years, strategies focused on data-driven innovation (DDI) have led to the emergence and development of new products and business models in the digital market. However, these advances have given rise to the development of sophisticated strategies for data management, predicting user behavior, or analyzing their actions. Accordingly, the large-scale analysis of user-generated data (UGD) has led to the emergence of user privacy concerns about how companies manage user data. Although there are some studies on data security, privacy protection, and data-driven strategies, a systematic review on the subject that would focus on both UGD and DDI as main concepts is lacking. Therefore, the present study aims to provide a comprehensive understanding of the main challenges related to user privacy that affect DDI. The methodology used in the present study unfolds in the following three phases; (i) a systematic literature review (SLR); (ii) in-depth interviews framed in the perspectives of UGD and DDI on user privacy concerns, and finally, (iii) topic-modeling using a Latent Dirichlet allocation (LDA) model to extract insights related to the object of study. Based on the results, we identify 14 topics related to the study of DDI and UGD strategies. In addition, 14 future research questions and 7 research propositions are presented that should be consider for the study of UGD, DDI and user privacy in digital markets. The paper concludes with an important discussion regarding the role of user privacy in DDI in digital markets.
 
-根据综述，数据驱动创新（DDI）被视为数字市场中的新场景，它通过利用用户生成的数据（UGD）来推动新产品和商业模式的出现，而后者则带来了数据安全（data security），隐私保护（privacy protection），数据驱动战略（data-driven strategies）方面的问题。文章着手与此，认为目前尚缺乏一个综述性的研究，来构建DDI和UGD之间的概念联系。
+根据综述，**数据驱动创新（DDI）**被视为数字市场中的新场景，它通过利用**用户生成的数据（UGD）**来推动新产品和商业模式的出现，而后者则带来了**数据安全（data security）**，**隐私保护（privacy protection）**，**数据驱动战略（data-driven strategies）**方面的问题。文章着手与此，认为**目前尚缺乏一个综述性的研究，来构建DDI和UGD之间的概念联系**。
 
 文章所主体包含的内容也在综述中表示得很清晰（但是后文不是严格按照这个结构来写的）: 
 
@@ -31,10 +31,10 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 3. 方法论（Methodology）
 分为三部分，分别是
 - 系统文献回顾（Systematic Literature Review, SLR）
-- 深入访谈（In-depth Interviews）
+- 深入**访谈**（In-depth Interviews）
 - 数据挖掘：主题建模和文本分析（Data Mining: Topic-Modeling and Textual Analysis）
 
-其中3.1部分简单介绍了一下SLR这个文献分析方法，然后做了一个图来表示它在slr方法中使用的一些参数，包括使用什么组合词，然后最后从134篇文章中筛选出16篇文章
+其中3.1部分简单介绍了一下是本文是如何使用SLR方法的，然后做了一个图来表示它在slr方法中使用的一些参数，包括使用什么组合词，然后最后从134篇文章中筛选出16篇文章
 
 然后再3.2部分中，它通过table 7列出详细筛选文章结果的类别，作者，观点，创新等的详细表格。然后在这部分中它表示本文进行了11次访谈，访谈对象来自9家中大型公司，涵盖了多个角色，如首席技术官、数字营销经理等。一张表是受访者介绍，一张表是受访者的人口统计特征。然后又有一些具体的研究方法，比如LDA模型，也就是我们使用的文本分析工具的方法和特征。
 
@@ -90,3 +90,4 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 2. 使用的研究方法SLR和LDA，在定量分析上表现比较薄弱，这是我的个人观点。
 3. 分析方法比较浅层（作者自己说的）
 4. 细节上，例如第一章的选题只构建了DDI概念而没有UGD概念，并不严格对称，例如选择隐私背景构架调查，这个似乎是冒出来的而不是推理出来的
+5. 文章结构上，写作目的与数据分析掺杂
