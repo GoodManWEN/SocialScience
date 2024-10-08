@@ -91,3 +91,4 @@ In recent years, strategies focused on data-driven innovation (DDI) have led to 
 3. 分析方法比较浅层（作者自己说的）
 4. 细节上，例如第一章的选题只构建了DDI概念而没有UGD概念，并不严格对称，例如选择隐私背景构架调查，这个似乎是冒出来的而不是推理出来的
 5. 文章结构上，写作目的与数据分析掺杂
+6. 数据库选择上，并不确定是否全面或局限使用的大多是开放式数据库，而不包含太多私有数据
